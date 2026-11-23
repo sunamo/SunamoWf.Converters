@@ -6,7 +6,7 @@
     <RootNamespace>SunamoWf</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <Description>WinForms (System.Drawing) value converters extracted from sunamo.wf</Description>
-    <Version>26.9.28.1</Version>
+    <Version>26.11.23.1</Version>
     <Authors>www.sunamo.cz</Authors>
     <Copyright>www.sunamo.cz</Copyright>
     <PackageProjectUrl>https://sunamo.github.io/PlatformIndependentNuGetPackages/SunamoWf.Converters/</PackageProjectUrl>
